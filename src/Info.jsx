@@ -1,6 +1,6 @@
 import React from 'react'
 import User from './props/User'
-import { userOne } from './data/User'
+import { userOne } from './data/user'
 import About from './props/About'
 import { contact } from './data/about'
 import Profile from './props/Profile'
