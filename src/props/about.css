@@ -1,0 +1,14 @@
+
+
+.item img {
+    width: 200;
+    height: 150px;
+    
+}
+.item {
+    border: 1px solid #ccc;
+}
+.user-info {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}

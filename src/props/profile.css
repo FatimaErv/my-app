@@ -1,0 +1,35 @@
+.server {
+    width: 300px;
+    height: 350px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px;
+    margin-bottom: 20px;
+}
+.cont h1 {
+    font-size: 20px;
+}
+.cont2 {
+    display: flex;
+    justify-content: space-around;
+}
+.server img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.red { 
+    background-color: rgb(146, 76, 76);
+}
+.green{
+background-color: rgb(83, 148, 83);
+}
+.cont {
+    display: flex;
+    justify-content: space-around;
+}
+.my {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
